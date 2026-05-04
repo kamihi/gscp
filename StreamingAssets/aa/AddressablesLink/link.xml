@@ -7,6 +7,7 @@
     <type fullname="kaityou.MenuController" preserve="all" />
     <type fullname="kaityou.RankingController" preserve="all" />
     <type fullname="kaityou.SettingController" preserve="all" />
+    <type fullname="kaityou.StoryController" preserve="all" />
     <type fullname="kaityou.TitleController" preserve="all" />
     <type fullname="RankingController_PlayerScoreBase" preserve="all" />
   </assembly>
